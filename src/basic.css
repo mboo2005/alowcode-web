@@ -1,0 +1,95 @@
+.color-white {
+    color: white
+}
+
+.cxd-Table-fixedTop:after {
+    top: 69%!important;
+}
+
+/* // 展示两行出现... */
+.ellipsis-line2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.word-break {
+    word-break: break-all;
+}
+
+.pre-wrap {
+    white-space: pre-wrap;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-auto {
+    flex: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.visibility-hidden {
+    visibility: hidden;
+}
+
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-start {
+    justify-content: start;
+}
+
+.justify-end {
+    justify-content: end;
+}
+
+.align-start {
+    align-items: start;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-baseline {
+    align-items: baseline;
+}
+
+.text-start {
+    text-align: start;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.gap-px8 {
+    gap: 8px;
+}
