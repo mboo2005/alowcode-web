@@ -1,4 +1,4 @@
-const baseUrl = 'http://39.106.227.73:8000'
+const baseUrl = 'http://online-ip:8000'
 
 export default {
 	baseUrl: baseUrl,
